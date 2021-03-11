@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773570492605",
+    "project_id": "qvid-306101",
+    "storage_bucket": "qvid-306101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773570492605:android:edae3f0c0ec1693778dfd4",
+        "android_client_info": {
+          "package_name": "com.example.qvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773570492605-sdlki46l44hs2pugn17h0caf4685pv7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOK734mGI6gQvG3eolmc_-YZv8jWIljC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773570492605-sdlki46l44hs2pugn17h0caf4685pv7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
